@@ -1,4 +1,4 @@
-package UIModuleLoader
+package tinkUIModuleLoader
 {
 	
 	/**

@@ -10,12 +10,14 @@
     <classEntry path="tinkLoader.config.ConfigManager"/>
     <classEntry path="tinkLoader.Loaders.BaseLoader"/>
     <classEntry path="tinkComponent.ComponentModel"/>
-    <classEntry path="tinkResource.UIModuleNames"/>
+    <classEntry path="tinkUIModuleLoader.UIModuleNames"/>
     <classEntry path="tinkLoader.Loaders.SWFLoader"/>
-    <classEntry path="UIModuleLoader.UIModuleLoader"/>
-    <classEntry path="UIModuleLoader.UIModuleLoaderManager"/>
-    <classEntry path="UIModuleLoader.UIModuleLoaderModel"/>
-    <classEntry path="UIModuleLoader.UIModuleLoaderEvent"/>
+    <classEntry path="tinkUIModuleLoader.UIModuleLoader"/>
+    <classEntry path="tinkUIModuleLoader.UIModuleLoaderManager"/>
+    <classEntry path="tinkUIModuleLoader.UIModuleLoaderModel"/>
+    <classEntry path="tinkUIModuleLoader.UIModuleLoaderEvent"/>
+    <classEntry path="tinkComponent.ClassUtils"/>
+    <classEntry path="tinkComponent.ObjectUtils"/>
   </includeClasses>
   <includeResources/>
   <namespaceManifests/>

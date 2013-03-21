@@ -1,4 +1,4 @@
-package tinkResource
+package tinkUIModuleLoader
 {
 	/**
 	 *模块  名字 

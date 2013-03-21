@@ -1,5 +1,6 @@
 package tinkComponent
 {
+	
 
 	/**
 	 *工厂类 
@@ -44,6 +45,10 @@ package tinkComponent
 		{
 			var xml:XML = getComponentXML(stylename);
 			var classname:String = xml.@classname;
+			var component:* = ClassUtils.adapter(classname);
+			ObjectUtils.copyPorpertiesByXML(component,xml);
+			component["stylename"] = stylename;
+			return component;
 		}
 		
 		public function getComponentXML(stylename:String):XML
