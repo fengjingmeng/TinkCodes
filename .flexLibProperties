@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="tinkLoader.LoaderManager"/>
+    <classEntry path="tinkLoader.LoaderType"/>
+    <classEntry path="tinkLoader.LoaderEvent"/>
+    <classEntry path="tinkLoader.LoaderModel"/>
+    <classEntry path="tinkLoader.LoaderQueue"/>
+    <classEntry path="tinkLoader.Loaders.XMLLoader"/>
+    <classEntry path="tinkLoader.config.ConfigManager"/>
+    <classEntry path="tinkLoader.Loaders.BaseLoader"/>
+    <classEntry path="tinkComponent.ComponentModel"/>
+    <classEntry path="tinkResource.UIModuleNames"/>
+    <classEntry path="tinkLoader.Loaders.SWFLoader"/>
+    <classEntry path="UIModuleLoader.UIModuleLoader"/>
+    <classEntry path="UIModuleLoader.UIModuleLoaderManager"/>
+    <classEntry path="UIModuleLoader.UIModuleLoaderModel"/>
+    <classEntry path="UIModuleLoader.UIModuleLoaderEvent"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
