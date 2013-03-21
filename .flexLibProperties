@@ -12,7 +12,6 @@
     <classEntry path="tinkComponent.ComponentModel"/>
     <classEntry path="tinkUIModuleLoader.UIModuleNames"/>
     <classEntry path="tinkLoader.Loaders.SWFLoader"/>
-    <classEntry path="tinkUIModuleLoader.UIModuleLoader"/>
     <classEntry path="tinkUIModuleLoader.UIModuleLoaderManager"/>
     <classEntry path="tinkUIModuleLoader.UIModuleLoaderModel"/>
     <classEntry path="tinkUIModuleLoader.UIModuleLoaderEvent"/>
